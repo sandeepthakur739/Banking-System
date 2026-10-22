@@ -1,0 +1,22 @@
+{
+    "all_banks": {
+        "Sandeep": "2875528873295950",
+        "Sumit": "6227492284319474"
+    },
+    "all_balance": {
+        "Sandeep": 13700.0,
+        "Sumit": 51300.0
+    },
+    "all_beneficiaries": {
+        "Raghav": {
+            "bank_name": "SBI",
+            "account_number": "1234567890",
+            "ifsc": "SBIN0000001"
+        },
+        "Pankaj": {
+            "bank_name": "PNB",
+            "account_number": "222244443654",
+            "ifsc": "PUNB0000001"
+        }
+    }
+}
